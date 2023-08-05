@@ -22,7 +22,7 @@
     cd LangChainStudy
     ```
 
-3. 安装必要的依赖。你可能需要根据你的环境进行一些调整：
+3. 使用python3.10来安装必要的依赖。（一定要python3.10）你可能需要根据你的环境进行一些调整：
 
     ```
     pip install -r requirements.txt
