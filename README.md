@@ -8,6 +8,7 @@
 
 这个项目是一个Jupyter notebook的集合，专门用于学习和探索LangChain框架。我们的目标是通过分享这些notebook来帮助开发者更好地理解和使用LangChain。
 
+b站视频连接：https://www.bilibili.com/video/BV1XK4y1C7ZU
 ## 安装
 
 1. 克隆这个仓库到你的本地环境：
