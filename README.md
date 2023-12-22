@@ -51,3 +51,38 @@ b站视频链接 🎥: [点击这里](https://www.bilibili.com/video/BV1Nh4y1c77
 ## 联系方式 💌
 
 如果你有任何问题或反馈，请通过[提交一个Issue](https://github.com/XingYu-Zhong/LangChainStudy/issues/new)来联系我们。
+
+## 📋Citation
+If you find this project useful in your research, please consider cite:
+```latex
+@misc{LangChainStudy2023,
+    title={{LangChainStudy} A open source langchain learning materials.},
+    author={xingyu zhong},
+    howpublished = {\url{https://github.com/XingYu-Zhong/LangChainStudy}},
+    year={2023}
+}
+```
+
+<a href="https://github.com/XingYu-Zhong/LangChainStudy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=XingYu-Zhong/LangChainStudy" />
+</a>
+
+## 🌟Star History
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=XingYu-Zhong/LangChainStudy&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=XingYu-Zhong/LangChainStudy&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=XingYu-Zhong/LangChainStudy&type=Date"
+  />
+</picture>
