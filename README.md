@@ -62,7 +62,7 @@ If you find this project useful in your research, please consider cite:
     year={2023}
 }
 ```
-
+## 🤝 Contributing
 <a href="https://github.com/XingYu-Zhong/LangChainStudy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=XingYu-Zhong/LangChainStudy" />
 </a>
