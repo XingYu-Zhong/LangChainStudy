@@ -6,3 +6,5 @@ unstructured
 pydantic
 sentence_transformers
 faiss-cpu
+google-search-results
+numexpr
