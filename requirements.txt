@@ -8,3 +8,5 @@ sentence_transformers
 faiss-cpu
 google-search-results
 numexpr
+langchain_openai
+fireworks-ai
